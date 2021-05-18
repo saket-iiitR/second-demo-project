@@ -10,7 +10,7 @@
     <div class="wrapper">
       <header role="banner">
         <nav role="navigation">
-          <h1><a href="#">Asperion Version 2</a></h1>
+          <h1><a href="#">Asperion Version 3</a></h1>
           <ul class="nav-ul">
             <li><a href="#">Home</a></li>
             <li><a href="#">About Us</a></li>
